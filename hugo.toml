@@ -1,0 +1,4 @@
+baseURL = 'https://alyona-tech-communication.org/'
+languageCode = 'en-us'
+title = 'Technical Communication'
+theme = 'hugo-book'
