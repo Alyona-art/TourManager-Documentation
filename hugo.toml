@@ -1,4 +1,4 @@
 baseURL = 'https://alyona-tech-communication.org/'
 languageCode = 'en-us'
-title = 'Technical Communication'
+title = 'TourManager'
 theme = 'hugo-book'
