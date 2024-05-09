@@ -3,6 +3,12 @@ name: Deploy Hugo site to Pages
 
 on: [push, pull_request]
 
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 # Default to bash
 defaults:
   run:
