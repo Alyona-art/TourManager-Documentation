@@ -2,13 +2,15 @@
 title: Stakeholder Analysis Report
 ---
 
-# Some excursion agency:
+# Stakeholder Analysis Report
 
-- They have a pool of guides of more than 30 people
-- About 10 excursions a day are actively conducted
-- For communication, we need to prepare a presentation for their management department with all the preliminary statistics and approximate release dates.
+## Stakeholders:
 
-# Another excursion company at the museum:
+Excursion Agencies/Managers and Guides
 
-- They have 3 permanent employees who often forget about scheduled excursions.
-- ...
+## Communication strategy:
+
+- Regular Updates: Provide regular updates on new features, enhancements, and best practices to ensure that managers are utilizing the platform to its full potential.
+- Training Sessions: Offer training sessions to educate managers on how to effectively use TourManager for excursion distribution and guide assignment.
+- Feedback Mechanism: Solicit feedback from managers to understand their pain points and suggestions for improvement, and communicate how their input is being considered in platform updates.
+- Support Resources: Provide access to online resources, tutorials, and customer support channels to address any questions or issues that managers may encounter.

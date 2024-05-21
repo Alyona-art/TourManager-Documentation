@@ -2,6 +2,8 @@
 title: Frequently Asked Questions (FAQs)
 ---
 
+# Frequently Asked Questions
+
 {{< expand "First Question" ">" >}}
 Some answer to the first question
 {{< /expand >}}
